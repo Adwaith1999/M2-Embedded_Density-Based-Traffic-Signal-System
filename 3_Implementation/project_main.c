@@ -1,22 +1,16 @@
-#define F_CPU 8000000UL
-#include <avr/io.h>
-#include <util/delay.h>
-
-#define R1 PB0
-#define Y1 PB1
-#define G1 PB2
-
-#define R2 PB3
-#define Y2 PB4
-#define G2 PB5
-
-#define R3 PD5
-#define Y3 PD4
-#define G3 PD3
-
-#define R4 PD2
-#define Y4 PD1
-#define G4 PD0
+/**
+ * @file project_main.c
+ * @author Adwaith.R
+ * @brief Project to Detect the Density of traffic and operate the traffic signal according to it
+ * @version 0.1
+ * @date 2021-12-01
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#include "project_config.h"
+#include "traffic_light.h"
+#include "user_utils.h"
 
 int main(void)
 {
