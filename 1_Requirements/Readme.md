@@ -1,8 +1,8 @@
  **INTRODUCTION:**
 
-- Nowadays, controlling the traffic becomes major issue because of rapid increase in automobiles and also because of large time delays between traffic lights. So, in order to rectify this problem, we will go for density based traffic lights system. 
+- Nowadays, controlling the traffic becomes major issue because of rapid increase in automobiles and also because of large time delays between traffic lights. So, in order to     rectify this problem, we will go for density based traffic lights system. 
 - The aim of the project is to solve traffic congestion which is a severe problem in many modern cities all over the world.
-- To solve the problem, a framework for a dynamic and automatic traffic light control system has been designed and developed a simulation model with codes in to help build the system
+- To solve the problem, a framework for a dynamic and automatic traffic light control system has been designed and developed a simulation model with codes in to help build the     system.
 - Generally, each traffic light on an intersection is assigned a constant green signal time.
 - It is possible to propose dynamic time based coordination schemes where the green signal time of the traffic lights is assigned based on the current conditions of the traffic.
 
