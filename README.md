@@ -14,5 +14,9 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f8efcb73f041420084b535df3e0a0475)](https://www.codacy.com/gh/Adwaith1999/M2-Embedded_Density-Based-Traffic-Signal-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Adwaith1999/M2-Embedded_Density-Based-Traffic-Signal-System&amp;utm_campaign=Badge_Grade)
 
+**OUTPUT:**
+
+![alt text](https://github.com/Adwaith1999/M2-Embedded_Density-Based-Traffic-Signal-System/blob/main/6_ImagesAndVideos/Output_Video.gif)
+
 
 
