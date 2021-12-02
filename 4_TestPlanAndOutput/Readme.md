@@ -1,4 +1,4 @@
-TEST CASES:
+**TEST CASES:**
 
 |         SCENARIO                     | GREEN TIME FOR A PARTICULAR LANE |
 |:---                                  |                              :---|
