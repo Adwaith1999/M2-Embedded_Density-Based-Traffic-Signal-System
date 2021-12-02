@@ -9,3 +9,6 @@ https://github.com/Adwaith1999/M2-Embedded_Density-Based-Traffic-Signal-System/b
 **TESTPLAN&OUTPUT:**
 
 https://github.com/Adwaith1999/M2-Embedded_Density-Based-Traffic-Signal-System/blob/main/4_TestPlanAndOutput/Readme.md
+
+**IMAGES&VIDEOS:**
+
