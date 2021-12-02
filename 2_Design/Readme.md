@@ -22,13 +22,13 @@
 
 **BILL OF MATERIALS:**
 
-ATmega328 controller
-8 Diodes
-8 330ohms resistor
-4 10kohms resistor
-4 BJT's
-LED’s-12(4-red,4-green,4-yellow)
-4 Rails
+- ATmega328 controller
+- 8 Diodes
+- 8 330ohms resistor
+- 4 10kohms resistor
+- 4 BJT's
+- LED’s-12(4-red,4-green,4-yellow)
+- 4 Rails
 
 
 
