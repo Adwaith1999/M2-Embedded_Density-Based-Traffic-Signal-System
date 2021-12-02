@@ -8,7 +8,6 @@
 
 **VIDEO:**
 
-![image](https://user-images.githubusercontent.com/94242252/144371398-67619fe7-3022-4612-b731-b9fdee7a264a.png)
-
+![alt text](https://github.com/Adwaith1999/M2-Embedded_Density-Based-Traffic-Signal-System/blob/main/6_ImagesAndVideos/Output_Video.gif)
 
 
